@@ -77,7 +77,7 @@ chat-app/
 ## Usage
 
 1. Start the server using `node server.js`
-2. Open the application in your browser
+2. Open the application in your browser.
 3. Enter your username
 4. Start sending messages
 5. Messages will appear in real-time for all connected users
