@@ -93,5 +93,5 @@ To modify the application:
 
 2. Frontend changes:
    - Modify `public/index.html` for UI/client-side changes
-   - Refresh the browser to see updates
+   - Refresh the browser to see updates.
 
