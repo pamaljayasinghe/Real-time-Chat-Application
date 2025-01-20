@@ -41,7 +41,7 @@ node server.js
 http://localhost:3000
 ```
 
-## Project Structure
+## Project Structure:
 
 ```
 chat-app/
