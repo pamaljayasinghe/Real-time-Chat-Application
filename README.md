@@ -11,7 +11,7 @@ A simple real-time chat application built with Node.js, Express, and WebSocket. 
 - Responsive design
 - Auto-scrolling message container
 
-## Prerequisites
+## Prerequisites:
 
 Before you begin, ensure you have installed:
 - [Node.js](https://nodejs.org/) (version 12.0 or higher)
