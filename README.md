@@ -18,7 +18,7 @@ Before you begin, ensure you have installed:
 - npm (comes with Node.js)
 - Git
 
-## Installation
+## Installation:
 
 1. Clone the repository:
 ```bash
