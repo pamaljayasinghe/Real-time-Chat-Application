@@ -2,7 +2,7 @@
 
 A simple real-time chat application built with Node.js, Express, and WebSocket. This application allows users to send and receive messages in real-time, displays user presence, and includes message timestamps.
 
-## Features
+## Features:
 
 - Real-time message broadcasting
 - User presence tracking (number of online users)
